@@ -8,6 +8,4 @@ List of ingredients that help you learn functional programming in easy and conci
 
 Well, enough said. As chinese proverbs, *Talk doesn't cook rice*. Let's prepare ourselves to satisfy our cravings.
 
-#### Note
-
-We will not create our own definition of helper functions use in snippets because it will only add complexity. Rather we gonna use [Ramda](http://ramdajs.com/) library which is designed specifically for a functional programming style.
+**Note:** We will not create our own definition of helper functions use in snippets because it will only add complexity. Rather we gonna use [Ramda](http://ramdajs.com/) library which is designed specifically for a functional programming style.
