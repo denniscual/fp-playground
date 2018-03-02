@@ -5,3 +5,9 @@ List of ingredients that help you learn functional programming in easy and conci
 [Functional programming](https://wiki.haskell.org/Functional_programming) is the process of building software by composing **pure functions**, avoiding **shared state**, **mutable data**, and **side-effects**. Functional programming is declarative rather than imperative, and application state flows through pure functions. Contrast this  with imperative programming where programs are composed of statements which change global state when executed.
 
 **Why learn FP?** Easy, function code tends to be more concise, more predictable, and easier to test! :sunglasses: Some popular libraries and frameworks like [React](https://reactjs.org/), [Redux](https://redux.js.org/), [RxJS](http://reactivex.io/rxjs/), [Immutable.js](https://facebook.github.io/immutable-js/), [Cycle.js](https://cycle.js.org/) and many more adopt the concepts of FP.
+
+Well, enough said. As chinese proverbs, *Talk doesn't cook rice*. Let's prepare ourselves to satisfy our cravings.
+
+#### Note
+
+We will not create our own definition of helper functions use in snippets because it will only add complexity. Rather we gonna use [Ramda](http://ramdajs.com/) library which is designed specifically for a functional programming style.
