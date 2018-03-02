@@ -1,4 +1,4 @@
-# Ingredients FP JS :cake::ice_cream::doughnut:
+# Ingredients FP JS
 
 List of ingredients that help you learn functional programming in easy and concise where you can use in your javascript daily coding. We choose javascript to define this ingredients because it is the most **popular** and **fun** programming in the world and supports functional paradigm. 
 
