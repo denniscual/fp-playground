@@ -1,0 +1,9 @@
+{
+  "name": "fp-make-it-easy",
+  "version": "1.0.0",
+  "description": "FP utilities which make it easy to understand",
+  "main": "index.js",
+  "repository": "https://github.com/denniscual/fp-make-it-easy",
+  "author": "denniscual mamayandpapay@gmail.com",
+  "license": "MIT"
+}
