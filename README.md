@@ -1,6 +1,6 @@
-# FP Ingredients
+# FP Playground
 
-List of ingredients that help you learn functional programming in easy and concise where you can use in your javascript daily coding. We choose **javaScript** to define this ingredients because it is the most **popular** and **fun** programming in the world and supports functional paradigm. 
+This is a playground which will make you learn functional programming fun again. Each concept has follow up **questions activity** that will make developers stay motivated and engaged. We choose **javascript** to define this ingredients because it is the most **popular** and **fun** programming in the world and supports functional paradigm.
 
 [Functional programming](https://wiki.haskell.org/Functional_programming) is the process of building software by composing **pure functions**, avoiding **shared state**, **mutable data**, and **side-effects**. Functional programming is declarative rather than imperative, and application state flows through pure functions. Contrast this  with imperative programming where programs are composed of statements which change global state when executed.
 
@@ -13,7 +13,7 @@ Well, enough said. As chinese proverbs, *Talk doesn't cook rice*. So, let's prep
 #### Note
 We will not create our own definition of helper functions use in snippets because it will only add complexity. Rather we gonna use [Ramda](http://ramdajs.com/) library which is designed specifically for a functional programming style.
 
-## List of Ingredients
+## Table of Contents
 
 ### First class functions
 
