@@ -1,6 +1,6 @@
 # FP Playground
 
-This is a playground which will make you learn functional programming fun again. Each concept has follow up **questions activity** that will make developers stay motivated and engaged. We choose **javascript** to create this playground because it is the most **popular** and **fun** programming in the world and supports functional paradigm.
+This is a playground which will make you learn functional programming fun again. Each concept has follow up **questions activity** that will make developers stay motivated and engaged.
 
 [Functional programming](https://wiki.haskell.org/Functional_programming) is the process of building software by composing **pure functions**, avoiding **shared state**, **mutable data**, and **side-effects**. Functional programming is declarative rather than imperative, and application state flows through pure functions. Contrast this  with imperative programming where programs are composed of statements which change global state when executed.
 
