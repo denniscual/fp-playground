@@ -11,7 +11,7 @@ Easy, function code tends to be more concise, more predictable, and easier to te
 Well, enough said. As chinese proverbs, *Talk doesn't cook rice*. So, let's prepare ourselves to satisfy our cravings.
 
 #### Note
-We will not create our own definition of helper functions use in snippets because it will only add complexity. Rather we gonna use [Ramda](http://ramdajs.com/) library which is designed specifically for a functional programming style.
+We are using helper functions from [Ramda](http://ramdajs.com/) in our javascript snippets. But feel free to use other library like [lodash-fp](https://github.com/lodash/lodash/wiki/FP-Guide).
 
 ## Table of Contents
 
